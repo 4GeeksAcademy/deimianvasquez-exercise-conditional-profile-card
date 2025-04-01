@@ -41,7 +41,7 @@ En este ejercicio, debes crear el código HTML necesario para renderizar una tar
 
 ![Tarjeta de perfil condicional](https://github.com/breatheco-de/exercise-conditional-profile-card/raw/master/preview.gif?raw=true)
 
-Dentro de `src/app.js` hay una función llamada `render` que recibe un objeto `variables` y contiene la lógica para crear la mayoría del código HTML de nuestro sitio web.
+Dentro de `src/js/app.js` hay una función llamada `render` que recibe un objeto `variables` y contiene la lógica para crear la mayoría del código HTML de nuestro sitio web.
 
 ```js
 function render(variables = {}) {
